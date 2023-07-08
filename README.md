@@ -1,4 +1,4 @@
-# Hi, I'm @MrUnikPrince! 👋
+# Hi, I'm Prince (Unique Prince)! 👋
 
 I am interested in coding and constantly strive to minimize errors in my work 🙂. Currently, I am eager to learn new skills and land my first job.
 
