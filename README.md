@@ -1,69 +1,52 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">🚀 Building scalable apps | 💻 Full-Stack Developer | 🔍 Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💻 AI & Automation Enthusiast | 🛠️ Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Code.+Build.+Repeat.;Open+Source+Contributor;Web+%26+AI+Dev+Lover;Your+next+favorite+teammate!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Crafting+code+with+purpose.;Lover+of+clean+UIs+%26+scalable+APIs.;Learning+daily+%F0%9F%9A%80;Tech+is+my+playground!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **AI, Data Science, and Web-dev**
-- 🛠️ Building production-ready apps using **Node.js**, **MongoDB**, **Python**, and more
-- 🧠 Exploring **Machine Learning** and **Automation**
-- 💬 Ask me about anything tech — I love discussing ideas!
-### - 📝 I regularly write blogs on [my website](https://aicodefusion.com)
+- 🧠 Currently diving into **AI, System Design, and DevOps**
+- 🔭 Working on **production-ready projects** with **Node.js**, and **MongoDB**
+- 🧑‍🏫 Passionate about teaching and creating **tech content**
+- ⚙️ I believe in *build fast, refactor smart, scale responsibly*
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,html,css,tailwind,git,github,linux,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,python,html,css,tailwind,git,github,linux,docker" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
+---
 
-### 🚀 Featured Projects
+### 📝 Recent Blog Posts
 
-### - 🔥 [Awesome Project 1](https://github.com/yourusername/project1) — Brief one-liner about what it does  
-### - 📊 [Data Visualizer](https://github.com/yourusername/project2) — Made with D3.js and real-time APIs  
-### - 💡 [AI Blog Generator](https://github.com/yourusername/aibloggen) — AI-powered article writer  
+<!-- Add RSS integration with GitHub Actions if you'd like me to automate this -->
 
 ---
 
-### 🌐 Connect with me
+### 👁️ Visitors
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pandey-prince/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="princepandey3273@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
 
-### 🕒 Recent GitHub Activity
+### ⚡ Fun Fact
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> ⚡ *Fun Fact:* I debug code better at night than during the day 😄
-
----
-
-### 📊 Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-
+> Debugging at 2 AM is 10x more productive than at 2 PM... don't ask why 😅
